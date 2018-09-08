@@ -19,4 +19,4 @@ Jenkins a ver si te enteras de está modificación o commit
 Probando Jenkins con GitHub
 Probando en casa Jenkins
 Más pruebas con jenkins
-y más pruebas
+y más pruebas...desde GitHub
